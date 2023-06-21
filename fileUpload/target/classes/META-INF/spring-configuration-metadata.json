@@ -1,0 +1,27 @@
+{
+  "groups": [
+    {
+      "name": "file",
+      "type": "com.beam.fileupload.fileupload.UploadFile",
+      "sourceType": "com.beam.fileupload.fileupload.UploadFile"
+    }
+  ],
+  "properties": [
+    {
+      "name": "file.id",
+      "type": "java.lang.String",
+      "sourceType": "com.beam.fileupload.fileupload.UploadFile"
+    },
+    {
+      "name": "file.name",
+      "type": "java.lang.String",
+      "sourceType": "com.beam.fileupload.fileupload.UploadFile"
+    },
+    {
+      "name": "file.upload-dir",
+      "type": "java.lang.String",
+      "sourceType": "com.beam.fileupload.fileupload.UploadFile"
+    }
+  ],
+  "hints": []
+}
