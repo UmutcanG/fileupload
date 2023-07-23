@@ -2,25 +2,30 @@
   "groups": [
     {
       "name": "file",
-      "type": "com.beam.uploadfile.fileUpload.FileUpload",
-      "sourceType": "com.beam.uploadfile.fileUpload.FileUpload"
+      "type": "com.beam.uploadfile.fileupload.FileUpload",
+      "sourceType": "com.beam.uploadfile.fileupload.FileUpload"
     }
   ],
   "properties": [
     {
       "name": "file.file-name",
       "type": "java.lang.String",
-      "sourceType": "com.beam.uploadfile.fileUpload.FileUpload"
+      "sourceType": "com.beam.uploadfile.fileupload.FileUpload"
     },
     {
-      "name": "file.file-path",
+      "name": "file.file-name-original",
       "type": "java.lang.String",
-      "sourceType": "com.beam.uploadfile.fileUpload.FileUpload"
+      "sourceType": "com.beam.uploadfile.fileupload.FileUpload"
     },
     {
       "name": "file.id",
       "type": "java.lang.String",
-      "sourceType": "com.beam.uploadfile.fileUpload.FileUpload"
+      "sourceType": "com.beam.uploadfile.fileupload.FileUpload"
+    },
+    {
+      "name": "file.origin",
+      "type": "java.lang.String",
+      "sourceType": "com.beam.uploadfile.fileupload.FileUpload"
     }
   ],
   "hints": []
